@@ -1,0 +1,5 @@
+context-feed.md
+*.log
+.DS_Store
+generated/
+__pycache__/

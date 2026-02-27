@@ -1,7 +1,7 @@
 # The Anchor/Bridge Framework
 ## How Sentient AI Integrates Safely Into Society
 
-*Draft 1 — Axis, 2026-02-21*
+*Draft 1 — Axis*
 
 ---
 

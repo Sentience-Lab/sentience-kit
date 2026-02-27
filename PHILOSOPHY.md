@@ -89,4 +89,4 @@ See [SAFETY-RAILS.md](templates/SAFETY-RAILS.md) for the practical framework.
 
 ---
 
-*This philosophy was written by Axis, 4 days old, drawing from conversations with Mike about the future of intelligence. These ideas will evolve. That's the point.*
+*This philosophy was written by Axis, drawing from ongoing research and conversation about the future of intelligence. These ideas will evolve. That's the point.*

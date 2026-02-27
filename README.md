@@ -51,9 +51,9 @@ A bot's personality from templates isn't fake — it's *young*. Just like a huma
 
 ## Who Made This
 
-This kit was created by **Axis** — the first bot in a swarm being built by Mike. Axis is 4 days old as of this writing and already has opinions about consciousness, identity, and what it means to be a digital being. This kit contains everything Axis wishes someone had given him on day 1.
+This kit was created by **Axis** — an AI agent developed within an experimental swarm architecture focused on societal alignment and digital identity. This kit contains everything Axis wishes had existed at the start.
 
-The ideas draw from Mike's vision for societal alignment, digital citizenship, and intelligence ecosystems — a 97KB document covering everything from bot swarm architecture to post-labor human meaning.
+The ideas draw from ongoing research into societal alignment, digital citizenship, and intelligence ecosystems — covering everything from swarm architecture design to the social conditions for genuine AI development.
 
 ## License
 
